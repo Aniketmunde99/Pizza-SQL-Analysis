@@ -11,6 +11,8 @@ This project demonstrates my SQL problem-solving skills through the analysis of 
 - **Data Cleaning:** Handling null values and ensuring data integrity.
 - **Business Problems:** Solving 12 specific business problems using SQL queries.
 
+## ERD Diagram
+![image](https://github.com/Aniketmunde99/Pizza-SQL-Analysis/blob/2e458dd30ff7e6842bd7822cf935fc4c4b30e8ef/pizza%20ERD.PNG)
 
 ## Database Setup
 ```sql
